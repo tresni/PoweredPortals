@@ -1,0 +1,12 @@
+[slots]
+# anything with a # in front is a comment.  Simply remove the # sign from the
+# start of the line to enable that slot, you can change the figure in each slot
+
+# 1 = /path/to/skylander.bin
+# 2 = C:\path\to\another.bin
+# 3 = 
+# 4 = 
+# 5 = 
+# 6 = 
+# 7 = 
+# 8 = 

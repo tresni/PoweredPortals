@@ -152,7 +152,7 @@ async def watcher():
     global portal_status
     mtime = 0
     while True:
-        conffile = Path("/home/pi/portal.conf")
+        conffile = Path("portal.conf")
         check = os.path.getmtime(conffile)
         if check > mtime:
             logger.info("Reloading portal.conf %d > %d" % (check, mtime))
